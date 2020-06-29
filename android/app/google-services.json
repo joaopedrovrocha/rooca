@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654197187783",
+    "firebase_url": "https://rooca-rn.firebaseio.com",
+    "project_id": "rooca-rn",
+    "storage_bucket": "rooca-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654197187783:android:07eee28450d1a7598d4ae2",
+        "android_client_info": {
+          "package_name": "com.zero.rooca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654197187783-fjthf66ekbkkc5por0k34iobe3ncg62e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1WZlH9zS06zxBx0I3UaHvhvSF9hYe4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654197187783-fjthf66ekbkkc5por0k34iobe3ncg62e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654197187783-ujgjr3g8h37hpfb5h771rd2jfom546k0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.rooca"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
